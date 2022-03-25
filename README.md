@@ -11,8 +11,8 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-FFA7A7?style=flat-square&logo=Spring Boot&logoColor=white">
   <img src="https://img.shields.io/badge/Python-F15F5F?style=flat-square&logo=Python&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Kotlin-F361A6?style=flat-square&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Android-86E57F?style=flat-square&logo=Android&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-F361A6?style=flat-square&logo=Kotlin&logoColor=white">
   <h1></h1>
   
 </div>
