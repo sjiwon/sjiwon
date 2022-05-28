@@ -5,14 +5,13 @@
   <h3> 📚 Technology Stack 📚 </h3>
   <h5> 📝 Skills in Experienced 📝 </h5>
   <img src="https://img.shields.io/badge/Java-A566FF?style=flat-square&logo=Java&logoColor=white">
- <br>
-  <h5> ✏ Skills in Practice ✏ </h5>
   <img src="https://img.shields.io/badge/Spring-FFB2F5?style=flat-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-FFA7A7?style=flat-square&logo=Spring Boot&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=Spring Boot&logoColor=white">
+ <br>
+  <h5> ✏ Skills in Practice ✏ </h5>
   <img src="https://img.shields.io/badge/Python-F15F5F?style=flat-square&logo=Python&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/Android-86E57F?style=flat-square&logo=Android&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-F361A6?style=flat-square&logo=Kotlin&logoColor=white">
   <h1></h1>
   
 </div>
