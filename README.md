@@ -1,6 +1,6 @@
 <div align=center>
   <h2>👋 Hello Everyone<br><br>
-    💻 I'm trying to become a <b>Backend Developer(Spring Boot/JPA)</b><br><br>
+    💻 I'm trying to become a <span>Backend Developer(Spring Boot/JPA)</span><br><br>
   </h2>
   <h3> 📚 Technology Stack 📚 </h3>
   <h5> 📝 Skills in Experienced 📝 </h5>
