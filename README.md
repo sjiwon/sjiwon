@@ -16,7 +16,7 @@
   
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjiwon)](https://solved.ac/sjiwon/)
+[![Solved.ac sjiwon](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjiwon)](https://solved.ac/sjiwon)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjiwon&show_icons=true&custom_title=sjiwon's&nbsp;GitHub&nbsp;👀&hide_border=true&bg_color=DEG,614385,516395&text_color=FFFFFF&title_color=FFFFFF&icon_color=FF0000)
 
