@@ -1,22 +1,26 @@
 <div align=center>
   <h2>👋 Hello Everyone<br><br>
-    💻 I'm trying to become a <span>Backend Developer(Spring Boot/JPA)</span><br><br>
+    💻 I'm trying to become a <span>Backend Developer (Spring Boot/JPA)</span><br><br>
   </h2>
   <h3> 📚 Technology Stack 📚 </h3>
-  <h5> 📝 Skills in Experienced 📝 </h5>
+  <h4> 📝 Skills in Experienced (Language, DB) 📝 </h4>
   <img src="https://img.shields.io/badge/Java-A566FF?style=flat-square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+ <br>
+  <h4> 📝 Skills in Experienced (Framework) 📝 </h4>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
   <img src="https://img.shields.io/badge/Sprint%20Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
   <img src="https://img.shields.io/badge/JPA(Hibernate)-59666C?style=flat-square&logo=Hibernate&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/QueryDSL-59666C?style=flat-square&logo=Hibernate&logoColor=white">
  <br>
   <h5> ✏ Skills in Practice ✏ </h5>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
-  <h1></h1>
-  
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
 </div>
+<hr>
 
 [![Solved.ac sjiwon](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjiwon)](https://solved.ac/sjiwon)
 
