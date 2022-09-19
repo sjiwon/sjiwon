@@ -10,7 +10,7 @@
   <h4> 📝 Skills in Experienced (Framework/Library) 📝 </h4>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white"><br>
   <img src="https://img.shields.io/badge/JPA(Hibernate)-59666C?style=flat-square&logo=Hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/QueryDSL-59666C?style=flat-square&logo=Hibernate&logoColor=white">
  <br>
