@@ -28,5 +28,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjiwon&show_icons=true&custom_title=sjiwon's&nbsp;GitHub&nbsp;👀&hide_border=true&bg_color=DEG,614385,516395&text_color=FFFFFF&title_color=FFFFFF&icon_color=FF0000)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sjiwon&layout=compact&custom_title=My&nbsp;Language&nbsp;📖&hide_border=true&bg_color=DEG,614385,516395&text_color=FFFFFF&title_color=FFFFFF&icon_color=FF0000)](https://github.com/sjiwon/github-readme-stats)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjiwon&count_bg=%23516395&title_bg=%23614385&icon=tinder.svg&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
