@@ -15,11 +15,10 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white">
   <br><br>
   <h5> ✏ Skills in Practice ✏ </h5>
-  <img src="https://img.shields.io/badge/jOOQ-59666C?style=flat-square&logo=Hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
-  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=Flyway&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS(Amazon Web Service)-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/jOOQ-59666C?style=flat-square&logo=Hibernate&logoColor=white">
 </div>
 <hr>
 
