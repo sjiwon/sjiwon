@@ -20,7 +20,7 @@
   <h5> ✏ Skills in Practice ✏ </h5>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/AWS(Amazon Web Service)-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">
-  <img src="https://img.shields.io/badge/jOOQ-8D1F89?style=flat&logo=Hibernate&logoColor=white">
+  <img src="https://img.shields.io/badge/jOOQ-8D1F89?style=flat&logo=Jameson&logoColor=white">
 </div>
 <hr>
 
