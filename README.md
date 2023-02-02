@@ -1,7 +1,7 @@
 <div>
   <h2> 💻 Java & Spring 기반 백엔드 개발자</h2>
   <h4> Language & DB </h4>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/JAVA-7FADF2?style=flat&logo=OpenJDK&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
   <h4> Framework & Library </h4>
