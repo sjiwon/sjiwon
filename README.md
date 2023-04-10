@@ -9,18 +9,10 @@
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=Spring Security&logoColor=white">
   <img src="https://img.shields.io/badge/JPA (Hibernate)-00485B?style=flat&logo=Hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/QueryDSL-6933FF?style=flat&logo=QEMU&logoColor=white">
-  <img src="https://img.shields.io/badge/Swagger-6DB33F?style=flat&logo=Swagger&logoColor=white">
-  <br>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white">
   <h4> Test </h4>
   <img src="https://img.shields.io/badge/JUnit5-1F36C7?style=flat&logo=JUnit5&logoColor=white">
   <img src="https://img.shields.io/badge/Mockito-EF3F56?style=flat&logo=Modrinth&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20REST%20Docs-6DB33F?style=flat&logo=Testing%20Library&logoColor=white">
-  <img src="https://img.shields.io/badge/TestContainers-007DD7?style=flat&logo=Linux%20Containers&logoColor=white">
-
-  <h5> ✏ Skills in Practice ✏ </h5>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
-  <img src="https://img.shields.io/badge/AWS(Amazon Web Service)-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white">
 </div>
 <hr>
 
