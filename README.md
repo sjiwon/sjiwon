@@ -13,6 +13,8 @@
   <img src="https://img.shields.io/badge/JUnit5-1F36C7?style=flat&logo=JUnit5&logoColor=white">
   <img src="https://img.shields.io/badge/Mockito-EF3F56?style=flat&logo=Modrinth&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20REST%20Docs-6DB33F?style=flat&logo=Testing%20Library&logoColor=white">
+  <h5> ✏️ In Practice </h5>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
 </div>
 <hr>
 
