@@ -3,7 +3,6 @@
   <h4> Language & DB </h4>
   <img src="https://img.shields.io/badge/JAVA-7FADF2?style=flat&logo=OpenJDK&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
   <h4> Framework & Library </h4>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=Spring Security&logoColor=white">
@@ -15,6 +14,7 @@
   <img src="https://img.shields.io/badge/Spring%20REST%20Docs-6DB33F?style=flat&logo=Testing%20Library&logoColor=white">
   <h5> ✏️ In Practice </h5>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
 </div>
 <hr>
 
