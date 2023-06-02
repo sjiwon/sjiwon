@@ -20,6 +20,7 @@
   <h5> ✏️ In Practice </h5>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
 </div>
 <hr>
 
