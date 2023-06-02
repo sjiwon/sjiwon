@@ -8,10 +8,15 @@
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=Spring Security&logoColor=white">
   <img src="https://img.shields.io/badge/JPA (Hibernate)-00485B?style=flat&logo=Hibernate&logoColor=white">
   <img src="https://img.shields.io/badge/QueryDSL-6933FF?style=flat&logo=QEMU&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger-6DB33F?style=flat&logo=Swagger&logoColor=white">
   <h4> Test </h4>
   <img src="https://img.shields.io/badge/JUnit5-1F36C7?style=flat&logo=JUnit5&logoColor=white">
   <img src="https://img.shields.io/badge/Mockito-EF3F56?style=flat&logo=Modrinth&logoColor=white">
   <img src="https://img.shields.io/badge/Spring%20REST%20Docs-6DB33F?style=flat&logo=Testing%20Library&logoColor=white">
+  <h4> Infra </h4>
+  <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=flat&logo=Github Actions&logoColor=white">
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=Nginx&logoColor=white">
+  <hr>
   <h5> ✏️ In Practice </h5>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
