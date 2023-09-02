@@ -1,6 +1,7 @@
 <div>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjiwon&count_bg=%23C83D4E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sjiwon-dev/)](https://www.linkedin.com/in/sjiwon-dev)
 
   <h4> 💻 Skills </h4>
   <img src="https://img.shields.io/badge/JAVA-7FADF2?style=flat&logo=OpenJDK&logoColor=black">
@@ -20,3 +21,8 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
 </div>
+
+<br>
+<hr>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sjiwon)
