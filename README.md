@@ -1,6 +1,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsjiwon&count_bg=%23C83D4E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sjiwon-dev/)](https://www.linkedin.com/in/sjiwon-dev)
 
+<br>
+
 ### 💻 Skills
 
 #### Language
@@ -41,5 +43,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-FDC43E?style=flat&logo=Amazon%20AWS&logoColor=white">
 </p>
+
+<br>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sjiwon)
