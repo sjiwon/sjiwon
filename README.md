@@ -44,6 +44,3 @@
   <img src="https://img.shields.io/badge/AWS-FDC43E?style=flat&logo=Amazon%20AWS&logoColor=white">
 </p>
 
-<br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sjiwon)
