@@ -3,7 +3,7 @@
 
 <br>
 
-### 💻 Skills
+### 💻 Tech Stack
 
 #### Language
 <p align="left">
@@ -21,20 +21,9 @@
 #### Data
 <p align="left">
   <img src="https://img.shields.io/badge/JPA(Hibernate)-A5915F?style=flat&logo=Hibernate&logoColor=white">
-  <img src="https://img.shields.io/badge/QueryDsl-0769AD?style=flat&logo=quora&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotlin JDSL-7F52FF?style=flat&logo=Kotlin&logoColor=white">
-  <img src="https://img.shields.io/badge/jOOQ-4B5562?style=flat&logo=joplin&logoColor=white">
-  <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white">
-  <img src="https://img.shields.io/badge/Flyway-CC0200?style=flat&logo=Flyway&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white">
-</p>
-
-#### Test
-<p align="left">
-  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=JUnit5&logoColor=white">
-  <img src="https://img.shields.io/badge/Kotest-648B1A?style=flat&logo=airindia&logoColor=white">
-  <img src="https://img.shields.io/badge/TestContainers-4285F4?style=flat&logo=googlecontaineroptimizedos&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
 </p>
 
 #### Infra
