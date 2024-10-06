@@ -2,7 +2,7 @@
 
 ---
 
-### 🗓️ Hello World
+## 🗓️ Hello World
 
 - Name: JiWon Seo
 - Position: Software Engineer (Backend)
@@ -12,7 +12,7 @@
 
 <br>
 
-### 🔎 Career
+## 🔎 Career
 
-- [2024.04 ~] Archisketch
+- [2024.04 ~] [Archisketch](https://www.archisketch.com/kr)
   - Kotlin, Spring Boot, JPA, MySQL, Redis, MongoDB, MQ, ...
