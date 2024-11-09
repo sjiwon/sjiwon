@@ -15,4 +15,7 @@
 ## 🔎 Career
 
 - [2024.04 ~] [Archisketch](https://www.archisketch.com/kr)
-  - Kotlin, Spring Boot, JPA, MySQL, Redis, MongoDB, MQ, ...
+  - Language: Kotlin(+ Coroutine), Java
+  - Framework: Spring Boot, Spring MVC, Spring Security, Ktor
+  - Data: JPA, MySQL, Redis, Mongo, Elasticsearch
+  - Test: JUnit, Kotest, Testcontainers
