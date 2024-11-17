@@ -16,6 +16,6 @@
 
 - [2024.04 ~] [Archisketch](https://www.archisketch.com/kr)
   - Language: Kotlin(+ Coroutine), Java
-  - Framework: Spring Boot, Spring MVC, Spring Security, Ktor
+  - Framework: Spring Boot, Spring MVC, Spring Security
   - Data: JPA, MySQL, Redis, Mongo, Elasticsearch
   - Test: JUnit, Kotest, Testcontainers
