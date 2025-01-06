@@ -5,7 +5,7 @@
 ## 🗓️ Hello World
 
 - Working as a <code><b>Software Engineer (Backend)</b></code>
-- Mainly using <code><b>Koltin, Spring Framework, ...</b></code>
+- Mainly using <code><b>Kotlin, Spring Framework, ...</b></code>
 
 <br>
 
