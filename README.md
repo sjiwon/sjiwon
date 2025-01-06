@@ -4,18 +4,14 @@
 
 ## 🗓️ Hello World
 
-- Name: JiWon Seo
-- Position: Software Engineer (Backend)
-- Email: sjiwon4491@gmail.com
-- LinkedIn: https://www.linkedin.com/in/sjiwon-dev
-- Blog: https://sjiwon-dev.tistory.com
+- Working as a <code><b>Software Engineer (Backend)</b></code>
+- Mainly using <code><b>Koltin, Spring Framework, ...</b></code>
 
 <br>
 
 ## 🔎 Career
 
-- [2024.04 ~] [Archisketch](https://www.archisketch.com/kr)
-  - Language: Kotlin(+ Coroutine), Java
-  - Framework: Spring Boot, Spring MVC, Spring Security
-  - Data: JPA, MySQL, Redis, Mongo, Elasticsearch
-  - Test: JUnit, Kotest, Testcontainers
+- [2024.04 ~] <a href="https://www.archisketch.com"><b>Archisketch</b></a> - Software Engineer (Backend)
+  - Language: Kotlin, Java
+  - Framework/Library: Spring Framework, Spring Security
+  - Data: JPA, MySQL, MongoDB, Redis
