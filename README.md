@@ -4,8 +4,8 @@
 
 ## 🗓️ Hello World
 
-- Working as a <code><b>Software Engineer (Backend)</b></code>
-- Mainly using <code><b>Kotlin, Spring Framework, ...</b></code>
+- Working as a <b>Backend Software Engineer</b>
+- Mainly using <b>Kotlin, Spring Framework, ...</b>
 
 <br>
 
@@ -15,3 +15,4 @@
   - Language: Kotlin, Java
   - Framework/Library: Spring Framework, Spring Security
   - Data: JPA, MySQL, MongoDB, Redis
+  - Test: JUnit5, Kotest, Testcontainers
