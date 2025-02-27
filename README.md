@@ -5,9 +5,8 @@
 ## 🗓️ Hello World
 
 - Working as a <b>Backend Software Engineer</b>
-- Mainly using <b>Kotlin, Spring Framework, ...</b>
+- Mainly using <b>JVM(Kotlin, Java), Spring Framework, ...</b>
 
-<br>
 
 ## 🔎 Career
 
