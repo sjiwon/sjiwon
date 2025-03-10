@@ -10,7 +10,8 @@
 
 ## 🔎 Career
 
-- [2024.04 ~] <a href="https://www.archisketch.com" target="_blank"><b>Archisketch</b></a> - Software Engineer (Backend)
+- [2025.03 ~] ??
+- [2024.04 ~ 2025.03] <a href="https://www.archisketch.com" target="_blank"><b>Archisketch</b></a> - Software Engineer (Backend)
   - Language: Kotlin, Java
   - Framework/Library: Spring Framework, Spring Security
   - Data: JPA, MySQL, MongoDB, Redis
